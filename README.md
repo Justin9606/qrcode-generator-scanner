@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#This web app has local storage even you refresh your browser the data will not be deleted
 
 ## Available Scripts
 
